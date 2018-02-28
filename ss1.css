@@ -2,18 +2,14 @@ body {
     background-color: pink
     }
 
-p.one {
+.left {
     text-align: left;
     }
 
-p.two {
+.center {
     text-align: center;
     }
 
-p.three {
+.right {
     text-align: right;
-    }
-
-p.four {
-    text-align: left;
     }
