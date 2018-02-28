@@ -1,0 +1,19 @@
+body {
+    background-color: pink
+    }
+
+p.one {
+    text-align: left;
+    }
+
+p.two {
+    text-align: center;
+    }
+
+p.three {
+    text-align: right;
+    }
+
+p.four {
+    text-align: left;
+    }
